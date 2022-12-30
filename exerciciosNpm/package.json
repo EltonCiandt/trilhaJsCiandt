@@ -1,14 +1,17 @@
 {
-  "name": "@eltonhs/exerciciosnpm",
+  "name": "exerciciosnpm",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EltonCiandt/trilhaJsCiandt/tree/main/exerciciosNpm"
+  },
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "license": "ISC"
 }
